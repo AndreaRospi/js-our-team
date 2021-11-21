@@ -30,6 +30,7 @@ const schede = [
         'foto': 'img/barbara-ramos-graphic-designer.jpg'
     },
 ]
+
 let card;
 let container = document.querySelector('.team-container');
 
